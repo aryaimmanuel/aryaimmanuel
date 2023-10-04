@@ -33,6 +33,11 @@ I'm currently focused on honing my skills in React and Next.js, two integral fra
 
 - [Pokefinder](https://github.com/aryaimmanuel/pokefinder) - An app to find Pokemons
 
+#### Contributions and Projects
+
+- [Chatterbox](https://github.com/aryaimmanuel/ChatterBox) - A team project app to chat with friends in a group or personal.
+- [Curagan](https://github.com/aryaimmanuel/curagan-frontend) - A team project app to make medical appointments with doctor and patient.
+
 #### Reach me on
 
 - 🔸 [GitHub](https://github.com/aryaimmanuel)
