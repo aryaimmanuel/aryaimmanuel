@@ -29,10 +29,6 @@ A developer with a passion for transforming creative ideas into digital reality.
 
 I'm currently focused on honing my skills in React and Next.js, two integral frameworks in modern web development. React's component-based architecture allows me to build dynamic and interactive user interfaces efficiently, while Next.js empowers me to create server-rendered React applications with excellent performance and SEO capabilities. As I delve deeper into these technologies, I'm excited about the endless possibilities they offer for crafting robust and responsive web applications, making me a more versatile and capable developer in the ever-evolving landscape of web development.
 
-#### I'm Currently Working On
-
-- [Pokefinder](https://github.com/aryaimmanuel/pokefinder) - An app to find Pokemons
-
 #### Contributions and Projects
 
 - [Chatterbox](https://github.com/aryaimmanuel/ChatterBox) - A team project app to chat with friends in a group or personal.
